@@ -1,0 +1,13 @@
+body{
+    background-color: #D8BFD8;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.texto{
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
